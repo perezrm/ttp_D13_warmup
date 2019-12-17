@@ -1,0 +1,8 @@
+- EXTRACT
+- DATE ()
+- INTERVAL ()
+- AGE ()
+- NOW()
+- date_trunc
+- to_timestamp
+- to_char
